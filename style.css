@@ -1,0 +1,31 @@
+:root {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+header {
+  padding: 2rem;
+  background-color: paleturquoise;
+}
+
+main {
+  padding-inline: 2rem;
+}
+
+#getQuote {
+  border: unset;
+  background-color: blue;
+  color: white;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+.quote {
+  margin-bottom: 0;
+}
+
+.author-wrapper {
+  color: gray;
+  margin: 0;
+}
